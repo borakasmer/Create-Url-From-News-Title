@@ -1,0 +1,10 @@
+/Users/borakasmer/Projects/codernews/bin/Debug/netcoreapp2.0/codernews.deps.json
+/Users/borakasmer/Projects/codernews/bin/Debug/netcoreapp2.0/codernews.runtimeconfig.json
+/Users/borakasmer/Projects/codernews/bin/Debug/netcoreapp2.0/codernews.runtimeconfig.dev.json
+/Users/borakasmer/Projects/codernews/bin/Debug/netcoreapp2.0/codernews.dll
+/Users/borakasmer/Projects/codernews/bin/Debug/netcoreapp2.0/codernews.pdb
+/Users/borakasmer/Projects/codernews/obj/Debug/netcoreapp2.0/codernews.csproj.CoreCompileInputs.cache
+/Users/borakasmer/Projects/codernews/obj/Debug/netcoreapp2.0/codernews.AssemblyInfoInputs.cache
+/Users/borakasmer/Projects/codernews/obj/Debug/netcoreapp2.0/codernews.AssemblyInfo.cs
+/Users/borakasmer/Projects/codernews/obj/Debug/netcoreapp2.0/codernews.dll
+/Users/borakasmer/Projects/codernews/obj/Debug/netcoreapp2.0/codernews.pdb
